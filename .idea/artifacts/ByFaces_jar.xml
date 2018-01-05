@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ByFaces:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ByFaces_jar</output-path>
+    <root id="archive" name="ByFaces.jar">
+      <element id="module-output" name="ByFaces" />
+      <element id="dir-copy" path="$PROJECT_DIR$/web/WEB-INF/classes" />
+    </root>
+  </artifact>
+</component>
